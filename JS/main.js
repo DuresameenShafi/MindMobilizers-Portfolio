@@ -1,11 +1,5 @@
 const firebaseConfig = {
-  apiKey: "AIzaSyDnSKhmOQP9IT0lro7HRC0GYE51V3hwIds",
-  authDomain: "mindmobilizers-portfolio.firebaseapp.com",
-  databaseURL: "https://mindmobilizers-portfolio-default-rtdb.firebaseio.com",
-  projectId: "mindmobilizers-portfolio",
-  storageBucket: "mindmobilizers-portfolio.appspot.com",
-  messagingSenderId: "172536149449",
-  appId: "1:172536149449:web:ab492b7b43aa34c5c4a418",
+//  paste your firebase config
 };
 
 firebase.initializeApp(firebaseConfig);
